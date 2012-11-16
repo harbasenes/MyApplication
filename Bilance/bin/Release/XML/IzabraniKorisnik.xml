@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Korisnici>
+    <IzabraniKorisnik>
+        <Sifra>0001</Sifra>
+        <Naziv>Com_Soft d.o.o.</Naziv>
+        <MaticniBroj>4263148950003</MaticniBroj>
+        <PDVBroj>263148950003</PDVBroj>
+        <Adresa1>Generala Izeta Nanića</Adresa1>
+        <Adresa2 />
+        <Sjediste>CAZIN</Sjediste>
+        <Lokacija>\\Enes-pc\e\Knjig\2011\RobFin11</Lokacija>
+    </IzabraniKorisnik>
+</Korisnici>

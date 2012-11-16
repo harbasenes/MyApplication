@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programi>
+    <Program>
+        <Godina>2011</Godina>
+        <ImeMape>\\Enes-pc\e\Knjig\2011\RobFin11</ImeMape>
+        <VrstaPrograma>ROB</VrstaPrograma>
+        <IzvrsnaDatoteka>\\Enes-pc\e\Knjig\2011\RobFin11\rob.BAT</IzvrsnaDatoteka>
+        <OpisPrograma>ROB2011</OpisPrograma>
+    </Program>
+    <Program>
+        <Godina>2011</Godina>
+        <ImeMape>\\Enes-pc\g\Knjig\2011\RobFin11</ImeMape>
+        <VrstaPrograma>ROB</VrstaPrograma>
+        <IzvrsnaDatoteka>\\Enes-pc\g\Knjig\2011\RobFin11\rob.BAT</IzvrsnaDatoteka>
+        <OpisPrograma>ROB2011 na G</OpisPrograma>
+    </Program>
+</Programi>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PodaciAfip>
+    <Afip>
+        <ImePrazanAfip>C:\AfipOrginal\FormatFIPredExcel.xls</ImePrazanAfip>
+        <FolderAfip>C:\AfipPopunjeni</FolderAfip>
+        <ImeBilanci>C:\BilancePopunjene\4263588090006_31.12.2011.xls</ImeBilanci>
+    </Afip>
+</PodaciAfip>

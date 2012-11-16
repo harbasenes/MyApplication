@@ -1,0 +1,5 @@
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\bin\Debug\Podaci.dll
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Debug\Podaci.dll
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Debug\Podaci.pdb

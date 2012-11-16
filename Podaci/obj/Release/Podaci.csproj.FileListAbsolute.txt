@@ -1,0 +1,15 @@
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\bin\Release\Podaci.dll
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\bin\Release\Podaci.pdb
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Release\Podaci.dll
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Podaci\obj\Release\Podaci.pdb
+E:\AplWin\Bilance\Podaci\bin\Release\Podaci.dll
+E:\AplWin\Bilance\Podaci\bin\Release\Podaci.pdb
+E:\AplWin\Bilance\Podaci\obj\Release\ResolveAssemblyReference.cache
+E:\AplWin\Bilance\Podaci\obj\Release\Podaci.dll
+E:\AplWin\Bilance\Podaci\obj\Release\Podaci.pdb
+E:\AplWinNET\Bilance\Podaci\bin\Release\Podaci.dll
+E:\AplWinNET\Bilance\Podaci\bin\Release\Podaci.pdb
+E:\AplWinNET\Bilance\Podaci\obj\Release\ResolveAssemblyReference.cache
+E:\AplWinNET\Bilance\Podaci\obj\Release\Podaci.dll
+E:\AplWinNET\Bilance\Podaci\obj\Release\Podaci.pdb

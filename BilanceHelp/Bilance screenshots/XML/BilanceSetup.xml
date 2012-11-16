@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setup>
+    <OpciParametri>
+        <BilanceFile>C:\BilanceOrginal\Bilance_2011.xls</BilanceFile>
+        <BilanceFolder>C:\BilancePopunjene</BilanceFolder>
+        <BilanceOdDatuma>1.1.2011.</BilanceOdDatuma>
+        <BilanceDoDatuma>31.12.2011.</BilanceDoDatuma>
+        <BilanceDatumPredaje>28.2.2012.</BilanceDatumPredaje>
+        <CreateFileName>NazivSifraDatum</CreateFileName>
+        <KnjigovodjaIme>Čohodar Sead</KnjigovodjaIme>
+        <KnjigovodjaAdresa>Mala Lisa bb</KnjigovodjaAdresa>
+        <KnjigovodjaID />
+        <KnjigovodjaLicenca />
+        <KnjigovodjaTelefon />
+    </OpciParametri>
+</Setup>

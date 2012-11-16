@@ -1,0 +1,117 @@
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Bilance.exe
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Bilance.pdb
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborPrograma.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmMain.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.Properties.Resources.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.exe
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.pdb
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Podaci.dll
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Podaci.pdb
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnika.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlan.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlan.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlanPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\RdlCompile.cache
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlanPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnikaPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjiga.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjigaPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKartica.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKarticaPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilans.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupama.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrintExt.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrint.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrintExt.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmBilanceSetup.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Bilance.exe.config
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.csproj.ResolveComReference.cache
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmFormirajBilance.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.frmSpecijalniNaloziGk.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\obj\x86\Debug\Bilance.AboutBox.resources
+C:\Users\Enes2\Desktop\Programming Entity Framework (Julia Lerman)\Bilance\Bilance\bin\Debug\Help\Bilance.chm
+E:\AplWin\Bilance\Bilance\bin\Debug\Bilance.exe.config
+E:\AplWin\Bilance\Bilance\obj\x86\Debug\Bilance.csproj.ResolveComReference.cache
+E:\AplWin\Bilance\Bilance\obj\x86\Debug\Bilance.exe
+E:\AplWin\Bilance\Bilance\obj\x86\Debug\Bilance.pdb
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Bilance.exe.config
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.csproj.ResolveComReference.cache
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.exe
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.pdb
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Help\Bilance.chm
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Bilance.exe
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Bilance.pdb
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Podaci.dll
+E:\AplWinNET\Bilance\Bilance\bin\Debug\Podaci.pdb
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.AboutBox.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKartica.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKarticaPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlan.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlanPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBilanceSetup.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilans.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupama.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrintExt.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrintExt.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmFormirajBilance.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjiga.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjigaPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnika.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnikaPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmIzborPrograma.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmMain.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlan.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlanPrint.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmSpecijalniNaloziGk.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.Properties.Resources.resources
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\RdlCompile.cache
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\RdlCompile.compiled
+E:\AplWinNET\Bilance\Bilance\obj\x86\Debug\Bilance.frmAfip.resources
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Bilance.exe.config
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.csproj.ResolveComReference.cache
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.exe
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.pdb
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Bilance.exe
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Bilance.pdb
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Podaci.dll
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Podaci.pdb
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.AboutBox.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmAfip.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKartica.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmAnalitickaKarticaPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlan.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmAnalitickiKontniPlanPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBilanceSetup.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilans.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupama.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPoGrupamaPrintExt.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmBrutoBilansPrintExt.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmFormirajBilance.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjiga.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmGlavnaKnjigaPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnika.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmIzborKorisnikaPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmIzborPrograma.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmMain.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlan.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmSintetickiKontniPlanPrint.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.frmSpecijalniNaloziGk.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\Bilance.Properties.Resources.resources
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\RdlCompile.cache
+E:\AplWinNET\Bilance1\Bilance\obj\x86\Debug\RdlCompile.compiled
+E:\AplWinNET\Bilance1\Bilance\bin\Debug\Bilance.chm

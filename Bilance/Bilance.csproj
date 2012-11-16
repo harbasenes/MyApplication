@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{516AB03F-55B1-4011-ACA4-9F7D1D3E4AF3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bilance</RootNamespace>
+    <AssemblyName>Bilance</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Afip.cs" />
+    <Compile Include="BilanceSetup.cs" />
+    <Compile Include="frmAfip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAfip.Designer.cs">
+      <DependentUpon>frmAfip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnalitickaKartica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnalitickaKartica.Designer.cs">
+      <DependentUpon>frmAnalitickaKartica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnalitickaKarticaPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnalitickaKarticaPrint.Designer.cs">
+      <DependentUpon>frmAnalitickaKarticaPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnalitickiKontniPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnalitickiKontniPlan.Designer.cs">
+      <DependentUpon>frmAnalitickiKontniPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnalitickiKontniPlanPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnalitickiKontniPlanPrint.Designer.cs">
+      <DependentUpon>frmAnalitickiKontniPlanPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilanceSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilanceSetup.Designer.cs">
+      <DependentUpon>frmBilanceSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilans.Designer.cs">
+      <DependentUpon>frmBrutoBilans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupama.Designer.cs">
+      <DependentUpon>frmBrutoBilansPoGrupama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupamaPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupamaPrint.Designer.cs">
+      <DependentUpon>frmBrutoBilansPoGrupamaPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupamaPrintExt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilansPoGrupamaPrintExt.Designer.cs">
+      <DependentUpon>frmBrutoBilansPoGrupamaPrintExt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilansPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilansPrint.Designer.cs">
+      <DependentUpon>frmBrutoBilansPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBrutoBilansPrintExt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrutoBilansPrintExt.Designer.cs">
+      <DependentUpon>frmBrutoBilansPrintExt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFormirajBilance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormirajBilance.Designer.cs">
+      <DependentUpon>frmFormirajBilance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGlavnaKnjiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGlavnaKnjiga.Designer.cs">
+      <DependentUpon>frmGlavnaKnjiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGlavnaKnjigaPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGlavnaKnjigaPrint.Designer.cs">
+      <DependentUpon>frmGlavnaKnjigaPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzborKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzborKorisnika.Designer.cs">
+      <DependentUpon>frmIzborKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzborKorisnikaPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzborKorisnikaPrint.Designer.cs">
+      <DependentUpon>frmIzborKorisnikaPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIzborPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIzborPrograma.Designer.cs">
+      <DependentUpon>frmIzborPrograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSintetickiKontniPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSintetickiKontniPlan.Designer.cs">
+      <DependentUpon>frmSintetickiKontniPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSintetickiKontniPlanPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSintetickiKontniPlanPrint.Designer.cs">
+      <DependentUpon>frmSintetickiKontniPlanPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSpecijalniNaloziGk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSpecijalniNaloziGk.Designer.cs">
+      <DependentUpon>frmSpecijalniNaloziGk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnikXML.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramItem.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="Validator.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAfip.resx">
+      <DependentUpon>frmAfip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnalitickaKartica.resx">
+      <DependentUpon>frmAnalitickaKartica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnalitickaKarticaPrint.resx">
+      <DependentUpon>frmAnalitickaKarticaPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnalitickiKontniPlan.resx">
+      <DependentUpon>frmAnalitickiKontniPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnalitickiKontniPlanPrint.resx">
+      <DependentUpon>frmAnalitickiKontniPlanPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilanceSetup.resx">
+      <DependentUpon>frmBilanceSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilans.resx">
+      <DependentUpon>frmBrutoBilans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilansPoGrupama.resx">
+      <DependentUpon>frmBrutoBilansPoGrupama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilansPoGrupamaPrint.resx">
+      <DependentUpon>frmBrutoBilansPoGrupamaPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilansPoGrupamaPrintExt.resx">
+      <DependentUpon>frmBrutoBilansPoGrupamaPrintExt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilansPrint.resx">
+      <DependentUpon>frmBrutoBilansPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBrutoBilansPrintExt.resx">
+      <DependentUpon>frmBrutoBilansPrintExt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFormirajBilance.resx">
+      <DependentUpon>frmFormirajBilance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGlavnaKnjiga.resx">
+      <DependentUpon>frmGlavnaKnjiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGlavnaKnjigaPrint.resx">
+      <DependentUpon>frmGlavnaKnjigaPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzborKorisnika.resx">
+      <DependentUpon>frmIzborKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzborKorisnikaPrint.resx">
+      <DependentUpon>frmIzborKorisnikaPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIzborPrograma.resx">
+      <DependentUpon>frmIzborPrograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSintetickiKontniPlan.resx">
+      <DependentUpon>frmSintetickiKontniPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSintetickiKontniPlanPrint.resx">
+      <DependentUpon>frmSintetickiKontniPlanPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSpecijalniNaloziGk.resx">
+      <DependentUpon>frmSpecijalniNaloziGk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\rptBrutoBilansExt.rdlc" />
+    <EmbeddedResource Include="Reports\rptAnalitickaKartica.rdlc" />
+    <EmbeddedResource Include="Reports\rptBrutoBilans.rdlc" />
+    <EmbeddedResource Include="Reports\rptBrutoBilansPoGrupama.rdlc" />
+    <EmbeddedResource Include="Reports\rptBrutoBilansPoGrupamaExt.rdlc" />
+    <EmbeddedResource Include="Reports\rptKorisnici.rdlc" />
+    <EmbeddedResource Include="Reports\rptAnalitickiKontniPlan.rdlc" />
+    <EmbeddedResource Include="Reports\rptNalogGlavneKnjige.rdlc" />
+    <EmbeddedResource Include="Reports\rptSintetickiKontniPlan.rdlc" />
+    <None Include="app.config" />
+    <None Include="Bilance.chm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\Bilance.chm" />
+    <None Include="Properties\DataSources\Podaci.AnalitickaKartica.datasource" />
+    <None Include="Properties\DataSources\Podaci.AnalitickiKonto.datasource" />
+    <None Include="Properties\DataSources\Podaci.BrutoBilans.datasource" />
+    <None Include="Properties\DataSources\Podaci.ItemGk.datasource" />
+    <None Include="Properties\DataSources\Podaci.Korisnik.datasource" />
+    <None Include="Properties\DataSources\Podaci.NalogGk.datasource" />
+    <None Include="Properties\DataSources\Podaci.SintetickiKontniPlan.datasource" />
+    <None Include="Properties\DataSources\Podaci.SintetickiKonto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Podaci\Podaci.csproj">
+      <Project>{B41D56C2-8509-4593-80B0-FA47CCE051DF}</Project>
+      <Name>Podaci</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FindHS1.png" />
+    <None Include="Resources\PrintHS1.png" />
+    <EmbeddedResource Include="Resources\FindHS.png" />
+    <None Include="Resources\Warning.bmp" />
+    <None Include="Resources\OK.bmp" />
+    <None Include="Resources\openfolderHS1.png" />
+    <None Include="Resources\openfolderHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
